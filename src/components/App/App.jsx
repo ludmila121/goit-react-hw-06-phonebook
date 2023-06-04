@@ -1,5 +1,5 @@
 import { AppContainer } from './App.styled';
-import { GlobalStyle } from '../GlobalStyle';
+import { GlobalStyle } from '../../GlobalStyle';
 import ContactForm from 'components/ContactForm/ContactForm';
 import Filter from 'components/Filter/Filter';
 import ContactList from 'components/ContactList/ContactList';
